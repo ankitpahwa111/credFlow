@@ -6,7 +6,20 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.mynav {
+  background-color: dimgrey;
+}
+.Mygraph{
+  width : 700px;
+  position: relative;
+  height : 500px;
+  margin-left : 350px;
+}
+.mybtn {
+  width : 300px !important;
+  margin-left: 300px !important;
 
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
